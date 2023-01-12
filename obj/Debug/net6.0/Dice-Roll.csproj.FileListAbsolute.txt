@@ -1,0 +1,15 @@
+\\fs-059\studuser$\Gr12\s.stockdale1\CS20\C#\Dice-Roll\bin\Debug\net6.0\Dice-Roll.exe
+\\fs-059\studuser$\Gr12\s.stockdale1\CS20\C#\Dice-Roll\bin\Debug\net6.0\Dice-Roll.deps.json
+\\fs-059\studuser$\Gr12\s.stockdale1\CS20\C#\Dice-Roll\bin\Debug\net6.0\Dice-Roll.runtimeconfig.json
+\\fs-059\studuser$\Gr12\s.stockdale1\CS20\C#\Dice-Roll\bin\Debug\net6.0\Dice-Roll.dll
+\\fs-059\studuser$\Gr12\s.stockdale1\CS20\C#\Dice-Roll\bin\Debug\net6.0\Dice-Roll.pdb
+\\fs-059\studuser$\Gr12\s.stockdale1\CS20\C#\Dice-Roll\obj\Debug\net6.0\Dice-Roll.csproj.AssemblyReference.cache
+\\fs-059\studuser$\Gr12\s.stockdale1\CS20\C#\Dice-Roll\obj\Debug\net6.0\Dice-Roll.GeneratedMSBuildEditorConfig.editorconfig
+\\fs-059\studuser$\Gr12\s.stockdale1\CS20\C#\Dice-Roll\obj\Debug\net6.0\Dice-Roll.AssemblyInfoInputs.cache
+\\fs-059\studuser$\Gr12\s.stockdale1\CS20\C#\Dice-Roll\obj\Debug\net6.0\Dice-Roll.AssemblyInfo.cs
+\\fs-059\studuser$\Gr12\s.stockdale1\CS20\C#\Dice-Roll\obj\Debug\net6.0\Dice-Roll.csproj.CoreCompileInputs.cache
+\\fs-059\studuser$\Gr12\s.stockdale1\CS20\C#\Dice-Roll\obj\Debug\net6.0\Dice-Roll.dll
+\\fs-059\studuser$\Gr12\s.stockdale1\CS20\C#\Dice-Roll\obj\Debug\net6.0\refint\Dice-Roll.dll
+\\fs-059\studuser$\Gr12\s.stockdale1\CS20\C#\Dice-Roll\obj\Debug\net6.0\Dice-Roll.pdb
+\\fs-059\studuser$\Gr12\s.stockdale1\CS20\C#\Dice-Roll\obj\Debug\net6.0\Dice-Roll.genruntimeconfig.cache
+\\fs-059\studuser$\Gr12\s.stockdale1\CS20\C#\Dice-Roll\obj\Debug\net6.0\ref\Dice-Roll.dll
